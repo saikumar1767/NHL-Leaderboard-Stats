@@ -1,9 +1,9 @@
-NHL API Documentation
+## NHL API Documentation
 This project aims to show details of teams in NHL and thier statistics using visualization(Highcharts).
 
 This is a document to mention the list of features and to navigate one, how to install frontend and backend of the application and see the website.
 
-Features:
+### Features:
 
 - The landing page has a summary table listings the details of each team, viz.,
   - Position of team across all seasons conducted so far.
@@ -36,7 +36,7 @@ Features:
 - Finally, a back button to navigate to initial Summary table.
 
 
-Installation:
+### Installation:
 
 If node_modules folders aren't there or any version issues, please remove node_modules folders in both frontend and backend do the following.
 (If no errors, try running both client and server directly).
